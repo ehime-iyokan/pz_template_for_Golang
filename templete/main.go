@@ -19,6 +19,7 @@ func MakeAnswer() (string, error) {
 
 	// 以下、解答を記載する
 	ans := ""
+	// fmt.Print(ans)
 
 	return ans, nil
 }
